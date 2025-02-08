@@ -9,7 +9,7 @@ This project is a Go-based application.
 go mod tidy
 ```
 
-1. Run the app
+2. Run the app
 ```bash
 go run main.go
 ```
