@@ -1,4 +1,4 @@
-# Book Go
+# Least congested path
 
 ## Introduction
 This project is a Go-based application.
